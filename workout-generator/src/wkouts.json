@@ -1,0 +1,691 @@
+{
+  "Exercises": {
+    "Back extension": {
+      "Title": "Back extension",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "Bw9YuQTTc58",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Back Squat": {
+      "Title": "Back Squat",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "ultWZbUMPL8",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Band Bicep Curl": {
+      "Title": "Band Bicep Curl",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "3g-1J2KkX_8",
+      "Primary Muscle Group": "Arms"
+    },
+
+    "Band Calf Raises": {
+      "Title": "Band Calf Raises",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "a2xjbhP4MkY",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Band Front Raise": {
+      "Title": "Band Front Raise",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "bcVKR_IPz4U",
+      "Primary Muscle Group": "Shoulder"
+    },
+
+    "Band Glute Kick Back": {
+      "Title": "Band Glute Kick Back",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "6ZssSVJmaU8",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Band Lateral Raise": {
+      "Title": "Band Lateral Raise",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "iQlrRrZTrBs",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Band Pull Apart": {
+      "Title": "Band Pull Apart",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "pMpxOYsHplk",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Band Reverse Fly": {
+      "Title": "Band Reverse Fly",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "38leTE2y1I8",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Band Seated Row": {
+      "Title": "Band Seated Row",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "whSXi-EXbqI",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Band Shoulder Press": {
+      "Title": "Band Shoulder Press",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "0rLjkQweIDg",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Band Squat Shoulder Press": {
+      "Title": "Band Squat Shoulder Press",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "zLoSp7Meo9Y",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Band Squats": {
+      "Title": "Band Squats",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "3kaL5g0gXwc",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Band Tricep Extensions": {
+      "Title": "Band Tricep Extensions",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "a5rUdCeTtSE",
+      "Primary Muscle Group": "Arms"
+    },
+
+    "Band Upright Row": {
+      "Title": "Band Upright Row",
+      "Equipment": "Resistance Band",
+      "Duration": 20,
+      "Tutorial": "HECH2KP_fXQ",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Bar Muscle Up": {
+      "Title": "Bar Muscle Up",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "OCg3UXgzftc",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Box jumps": {
+      "Title": "Box jumps",
+      "Equipment": "Jumping Box",
+      "Duration": 20,
+      "Tutorial": "EKa1GG5Zsg0",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Burpee Box Jump": {
+      "Title": "Burpee Box Jump",
+      "Equipment": "Jumping Box",
+      "Duration": 20,
+      "Tutorial": "bG2XsR2VqQw",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Burpee TTB": {
+      "Title": "Burpee TTB",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "Iwkn2WfRH8o",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Burpees": {
+      "Title": "Burpees",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "rg0f_LYhqQA",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Chest to Bar PullUp": {
+      "Title": "Chest to Bar PullUp",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "p9Stan68FYM",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Clean": {
+      "Title": "Clean",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "EKRiW9Yt3Ps",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Deadlift": {
+      "Title": "Deadlift",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "op9kVnSso6Q",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Diamond Pushups": {
+      "Title": "Diamond Pushups",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "s8Ft6xyN5fw",
+      "Primary Muscle Group": "Chest"
+    },
+
+    "DPP (Dumbbell Push Press)": {
+      "Title": "DPP (Dumbbell Push Press)",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "MqvN10OF5fo",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "DU (Double under rope jump)": {
+      "Title": "DU (Double under rope jump)",
+      "Equipment": "Jump Rope",
+      "Duration": 20,
+      "Tutorial": "-tF3hUsPZAI",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Dumbbell burpee deadlift": {
+      "Title": "Dumbbell burpee deadlift",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "kJ1pOPL75lk",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Dumbbell Curls": {
+      "Title": "Dumbbell Curls",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "sAq_ocpRh_I",
+      "Primary Muscle Group": "Arms"
+    },
+
+    "Dumbbell deadlift": {
+      "Title": "Dumbbell deadlift",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "lJ3QwaXNJfw",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Dumbbell Overhead Walking Lunge": {
+      "Title": "Dumbbell Overhead Walking Lunge",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "J3DxelcaaMU",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Dumbbell snatch (Single hand)": {
+      "Title": "Dumbbell snatch (Single hand)",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "9520DJiFmvE",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Dumbbell Swing": {
+      "Title": "Dumbbell Swing",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "uB-fq0HqGK0",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Dumbbell thruster": {
+      "Title": "Dumbbell thruster",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "M5gEwLTtWbg",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Front plank": {
+      "Title": "Front plank",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "E9SAZ666j2A",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Front Rack Lunge": {
+      "Title": "Front Rack Lunge",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "f3WLs_HutLw",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Front Squat": {
+      "Title": "Front Squat",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "m4ytaCJZpl0",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Goblet Squat": {
+      "Title": "Goblet Squat",
+      "Equipment": "Kettlebell",
+      "Duration": 20,
+      "Tutorial": "gXjNTLSVvGM",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Handstand": {
+      "Title": "Handstand",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "0WCAmeqQnSE",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Hollow Rock": {
+      "Title": "Hollow Rock",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "p7j02V1fIzU",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "HSPU (Hand stand push ups)": {
+      "Title": "HSPU (Hand stand push ups)",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "_z6JgP219T8",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Jumping Lunge": {
+      "Title": "Jumping Lunge",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "hTdcOG9muQk",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Kettlebell Lunges": {
+      "Title": "Kettlebell Lunges",
+      "Equipment": "Kettlebell",
+      "Duration": 20,
+      "Tutorial": "oRneP8voqwU",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Kettlebell Swings": {
+      "Title": "Kettlebell Swings",
+      "Equipment": "Kettlebell",
+      "Duration": 20,
+      "Tutorial": "zBIWpPfc6NY",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "L Pull Ups": {
+      "Title": "L Pull Ups",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "hHdD5Ksdnmk",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Leg lunge": {
+      "Title": "Leg lunge",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "JRh6_4rq-b8",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Mountain Climber": {
+      "Title": "Mountain Climber",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "1J4hRICVjRo",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Overhead Squat": {
+      "Title": "Overhead Squat",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "RD_vUnqwqqI",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Pike push ups": {
+      "Title": "Pike push ups",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "sposDXWEB0A",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Pistol": {
+      "Title": "Pistol",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "qDcniqddTeE",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Plate Ground to Overhead": {
+      "Title": "Plate Ground to Overhead",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "0F31qKNKj_U",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Power Ball Clean": {
+      "Title": "Power Ball Clean",
+      "Equipment": "Power Ball",
+      "Duration": 20,
+      "Tutorial": "-nk0GqeSTJs",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Power Clean": {
+      "Title": "Power Clean",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "GVt4uQ0sDJE",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Pullups": {
+      "Title": "Pullups",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "aAggnpPyR6E",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Push Jerk": {
+      "Title": "Push Jerk",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "V-hKuAfWNUw",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Push Press": {
+      "Title": "Push Press",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "X6-DMh-t4nQ",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Push ups": {
+      "Title": "Push ups",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "_l3ySVKYVJ8",
+      "Primary Muscle Group": "Chest"
+    },
+
+    "Rest": {
+      "Title": "Rest",
+      "Equipment": null,
+      "Duration": 10,
+      "Tutorial": null,
+      "Primary Muscle Group": null
+    },
+
+    "Ring Dips": {
+      "Title": "Ring Dips",
+      "Equipment": "Ring",
+      "Duration": 20,
+      "Tutorial": "DaNedgnJjB0",
+      "Primary Muscle Group": "Chest"
+    },
+
+    "Ring L-Sit": {
+      "Title": "Ring L-Sit",
+      "Equipment": "Rings",
+      "Duration": 20,
+      "Tutorial": "kD6Czv0RrhE",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Ring Muscle Up": {
+      "Title": "Ring Muscle Up",
+      "Equipment": "Rings",
+      "Duration": 20,
+      "Tutorial": "rtF51pQB6Wc",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Ring Rows": {
+      "Title": "Ring Rows",
+      "Equipment": "Rings",
+      "Duration": 20,
+      "Tutorial": "xhlReCpAE9k",
+      "Primary Muscle Group": "Back"
+    },
+
+    "Sandbag Back Squat": {
+      "Title": "Sandbag Back Squat",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "TKxt81EiBHw",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Sandbag Cleans": {
+      "Title": "Sandbag Cleans",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "WjSM1GlP8tk",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Sandbag Deadlift": {
+      "Title": "Sandbag Deadlift",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "bnml2O6cdbg",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Sandbag Floor Press": {
+      "Title": "Sandbag Floor Press",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "gUR5gZo454Y",
+      "Primary Muscle Group": "Chest"
+    },
+
+    "Sandbag High Pull": {
+      "Title": "Sandbag High Pull",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "5EHhH_8BIo4",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Sandbag Overhead Press": {
+      "Title": "Sandbag Overhead Press",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "dUQsxXyKUCI",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "Sandbag Shoulder Lunges": {
+      "Title": "Sandbag Shoulder Lunges",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "wHEjQzap6xk",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Sandbag Shoulder Squat": {
+      "Title": "Sandbag Shoulder Squat",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "-GFGdtnnteE",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Sandbag Thrusters": {
+      "Title": "Sandbag Thrusters",
+      "Equipment": "Sandbag",
+      "Duration": 20,
+      "Tutorial": "YfntAFyBZvU",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Single-Dumbbell Overhead Squat": {
+      "Title": "Single-Dumbbell Overhead Squat",
+      "Equipment": "Dumbbells",
+      "Duration": 20,
+      "Tutorial": "fa_yJa2XwXk",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Sit-ups": {
+      "Title": "Sit-ups",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "EhG_x1bLHwE",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Slamball": {
+      "Title": "Slamball",
+      "Equipment": "Power Ball",
+      "Duration": 20,
+      "Tutorial": "7gLEmS4nwi0",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Squat": {
+      "Title": "Squat",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "C_VtOYc6j5c",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Squat jump": {
+      "Title": "Squat jump",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "87ynaOgFplw",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "Strict Press": {
+      "Title": "Strict Press",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "9G1ATSx1JQ8",
+      "Primary Muscle Group": "Shoulders"
+    },
+
+    "SU": {
+      "Title": "SU",
+      "Equipment": "Jump Rope",
+      "Duration": 20,
+      "Tutorial": "hCuXYrTOMxI",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Sumo Deadlift High Pull": {
+      "Title": "Sumo Deadlift High Pull",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "o6QniJ9FaGA",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Superman": {
+      "Title": "Superman",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "ARQHGgpmECM",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Thrusters": {
+      "Title": "Thrusters",
+      "Equipment": "Barbell / Plates",
+      "Duration": 20,
+      "Tutorial": "aea5BGj9a8Y",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "TTB (Toes to Bar)": {
+      "Title": "TTB (Toes to Bar)",
+      "Equipment": "Pull-Up Bar",
+      "Duration": 20,
+      "Tutorial": "_03pCKOv4l4",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Tuck Jump": {
+      "Title": "Tuck Jump",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "zh1v8jINBZ0",
+      "Primary Muscle Group": "Legs"
+    },
+
+    "V Ups": {
+      "Title": "V Ups",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "XloTyS5-4jg",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Wall Ball": {
+      "Title": "Wall Ball",
+      "Equipment": "Power Ball",
+      "Duration": 20,
+      "Tutorial": "UUo2ONp4iGc",
+      "Primary Muscle Group": "Abs"
+    },
+
+    "Worm Walk": {
+      "Title": "Worm Walk",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "Gv0rFtj-XjI",
+      "Primary Muscle Group": "Full-Body"
+    },
+
+    "Yoga Pushup": {
+      "Title": "Yoga Pushup",
+      "Equipment": "None",
+      "Duration": 20,
+      "Tutorial": "zxNSXfHnNyE",
+      "Primary Muscle Group": "Full-Body"
+    }
+  }
+}
