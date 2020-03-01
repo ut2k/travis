@@ -1,5 +1,5 @@
-language: node_js
-node_js:
+language: 12_js
+12_js:
   - "stable"
 cache:
   directories:
