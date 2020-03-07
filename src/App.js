@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
 import { Container } from 'semantic-ui-react';
 import SplashPage from './Pages/SplashPage';
-import WorkoutsPage from './Pages/WorkoutsPage';
 import TopMenu from './Components/TopMenu';
 import ProfilePage from './Pages/ProfilePage';
 import { firebase }from './firebaseDb';
