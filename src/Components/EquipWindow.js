@@ -12,10 +12,11 @@ const EquipWindow = ({ name, description, url }) => (
         size="tiny"
         circular
         basic
+        data-testid="newItemField"
       />
     }
   >
-    <Modal.Header>{name}</Modal.Header>
+    <Modal.Header data-testid="newName">{name}</Modal.Header>
     <Modal.Content image>
       <Image wrapped size="medium" src={url} />
       <Modal.Description>
