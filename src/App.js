@@ -18,13 +18,7 @@ const App = () => {
   }, []);
   
 
-  // const workoutContext = useContext(WorkoutContext)
-  // const { equipment, workouts, countdown, muscleGroups } = workoutContext;
-  // console.log('duration', countdown)
-  // console.log('equip', equipment)
-  // console.log('muscle groups', muscleGroups)
-  // console.log('workout list', workouts)
-  // console.log(user)
+
 
   const withMenu = (page) => {
     return (
