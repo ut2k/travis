@@ -4,7 +4,7 @@ import { Container } from 'semantic-ui-react';
 import SplashPage from './Pages/SplashPage';
 import WorkoutsPage from './Pages/WorkoutsPage';
 import TopMenu from './Components/TopMenu';
-import ProfilePage from './Pages/ProfilePage';
+
 import { firebase }from './firebaseDb';
 import 'firebase/database';
 import "firebase/auth";
