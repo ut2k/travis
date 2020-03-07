@@ -1,4 +1,4 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext} from 'react';
 import { Link } from 'react-router-dom';
 import { Segment, Form, Checkbox, Header, Button, Dropdown } from 'semantic-ui-react';
 import { EQUIPMENT_LIST, MUSCLE_LIST } from '../constants';

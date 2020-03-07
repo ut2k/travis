@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Checkbox, Header, Image, Modal } from "semantic-ui-react";
+import { Checkbox, Image, Modal } from "semantic-ui-react";
 
 const useStateWithLocalStorage = localStorageKey => {
   const storageValue = localStorage.getItem(localStorageKey);
