@@ -21,6 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "cypress:open": "cypress open",
+    "cypress:ci": "cypress run --config video=false",
+    "test:ci": "react-scripts test --watchAll=false && start-server-and-test start http://localhost:3000 cypress:ci",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -40,6 +42,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^9.5.0",
-    "cypress": "^4.1.0"
+    "cypress": "^4.1.0",
+    "start-server-and-test": "^1.10.8"
   }
 }
