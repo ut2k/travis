@@ -74,6 +74,7 @@ const EquipmentForm = () => {
               <Checkbox
                 label={name(item.title)}
                 value={item.title}
+                data-cy={name(item.title)}
                 checked={equipment.includes(item.title)}
                 onChange={(e, { value }) => addEquip(value)} />
               <EquipWindow name={name(item.title)} description={item.description} url={item.url} />
